@@ -1,0 +1,123 @@
+# Organização da área de Vigilância Socioassistencial no âmbito da Gestão
+Embora um olhar vigilante sobre as vulnerabilidades e serviços seja uma responsabilidade de todos gestores e técnicos da Assistência Social, é importante ressaltar que a Vigilância Socioassistencial deve ser concretamente constituída como uma área nos órgãos gestores em todos os entes federados. Isto é, a vigilância se materializa em atividades concretas nos 3 níveis de governo, por isso é muito importante que as SMAS e SEAS instituam a área da vigilância dentro das secretarias.
+
+::: {.callout-tip appearance="minimal"}
+
+Conforme já apresentado no [item 3 da Macroatividades da Vigilância](capitulo3.qmd), a área de Vigilância no âmbito da gestão deve:
+
+- elaborar e atualizar periodicamente o diagnóstico socioterritorial;
+- contribuir com as áreas de gestão e de proteção social básica e especial, na elaboração planos e diagnósticos; 
+- colaborar com a gestão no planejamento das atividades pertinentes ao cadastramento e atualização cadastral do CadÚnico; 
+- utilizar a base de dados do CadÚnico como ferramenta para construção de mapas de vulnerabilidade social dos territórios, para traçar o perfil de populações vulneráveis e para estimar a demanda potencial dos serviços;
+- responsabilizar-se pelo preenchimento mensal do Sistema de Registro dos Atendimentos do SUAS (Resolução CIT nº 04/2011);
+- coordenar o processo de realização anual do Censo SUAS; 
+- disponibilizar informações sobre a rede socioassistencial e sobre os atendimentos por ela realizados para a gestão, os serviços e o Controle Social, contribuindo com a função de fi scalização e controle desta instância de parti cipação social;
+- fornecer sistemati camente às unidades da rede socioassistencial, especialmente aos CRAS e CREAS, informações e indicadores territorializados;
+- utilizar os cadastros, bases de dados e sistemas de informações e dos programas de transferência de renda e dos benefícios assistenciais como instrumentos permanentes de identificação das famílias que apresentam características de potenciais demandantes dos disti ntos serviços socioassistenciais e, com base em tais informações, planejar, orientar e coordenar ações de busca ativa a serem executas pelas equipes dos CRAS e CREAS;
+- fornecer sistemati camente aos CRAS e CREAS listagens territorializadas das famílias em descumprimento de condicionalidades do Programa Bolsa Família com bloqueio ou suspensão do benefí cio, e monitorar a realização da busca ativa destas famílias pelas referidas unidades;
+- organizar, normatizar e gerir, no âmbito da Política de Assistência Social, o sistema de notificações para eventos de violação de direitos, estabelecendo instrumentos e fluxos necessários à sua implementação e funcionamento;
+- coordenar e acompanhar a alimentação dos sistemas de informação que provêm dados sobre a rede socioassistencial e sobre os atendimentos por ela realizados;
+- realizar a gestão do cadastro de unidades da rede socioassistencial no CadSUAS, 
+- responsabilizar-se pela gestão e alimentação de outros sistemas de informação que provêm dados sobre a rede socioassistencial e sobre os atendimentos por ela realizados;
+- analisar periodicamente os dados dos sistemas de informação anteriormente referidos, estabelecer, com base nas normativas existentes e no diálogo com as demais áreas técnicas, padrões de referência para avaliação da qualidade dos serviços ofertados pela rede socioassistencial e monitorá-los por meio de indicadores;
+- coordenar em nível municipal e do DF, de forma articulada com as áreas de Proteção Social Básica e de Proteção Social Especial da Secretaria, as atividades de monitoramento da rede socioassistencial pública e privada, de forma a avaliar periodicamente a observância dos padrões de referência relativos à qualidade dos serviços ofertados;
+- estabelecer articulações intersetoriais de forma a ampliar o conhecimento sobre os riscos e vulnerabilidades que afetam as famílias e indivíduos num dado território, colaborando para o aprimoramento das intervenções realizadas. 
+:::
+
+Assim, a Vigilância Socioassistencial tem um compromisso horizontal, de responder a demandas dos órgãos gestores onde estão instituídos e um compromisso vertical, de responder a demandas dos serviços. No caso da Vigilância Socioassistencial instituída nos órgãos gestores Estaduais, há também o compromisso vertical de dar apoio técnico às Vigilâncias Socioassistenciais nos municípios.
+
+![Imagem provisória](img/censosuas.png)
+
+Quanto a necessidades de formalização de um setor responsável pela Vigilância Socioassistencial, mais importante que um nome especificado, ou o tamanho da equipe, ou ainda, infra-estrutura de computadores, é importante que as funções específicas da Vigilância Socioassistencial sejam cumpridas de forma homogênea, qualitativa e adequada.
+
+Cada município/estado possui um instrumento legal que institui o organograma da Secretaria, que pode ser uma portaria, uma lei, etc. Para se instituir a área de Vigilância Sociassistencial formalmente é preciso que este documento seja revisto, processo que podem encontrar dificuldades de ordem política, mas cuja redação legal e tramite são relativamente simples. 
+
+## Equipe e habilidades técnicas
+A equipe da Vigilância deve ser multidisciplinar. Sugere-se que nos estados, nas metrópoles e nos municípios de grade porte a equipe da Vigilância Socioassistencial inclua profissionais das seguintes formações:
+
+- Sociologia;
+- Estatística;
+- Serviço Social;
+- Psicologia.
+
+Além destas formações, podem ser incorporadas à equipe todas aquelas formações estabelecidas na Resolução CNAS nº 17/2011, que reconhece as categorias profissionais de nível superior para atender as especificidades dos serviços socioassistenciais e das funções essenciais de gestão do Sistema Único de Assistência Social – SUAS.
+
+O ideal é que exista uma equipe específica e permanente, uma vez que a Vigilância demanda um processo de construção de conhecimento, o que não é possível quando a equipe é muito fluída.
+
+A Vigilância é uma atividade técnico-politica, isto é, tem, ao mesmo tempo, um conteúdo político e por esta razão os profissionais precisam ter uma habilidade para lidar com os aspectos políticos e tenham conhecimentos sobre a política de Assistência Social, e, ao mesmo tempo, é uma atividade técnica demandando habilidades específicas. Existem diversas formações que podem auxiliar o trabalho técnico da Vigilância, entre elas: Estatística, Economia, Tecnologia da Informação, entre outras. Ressalta-se, por outro lado, a importância da coexistência de formações como Serviço Social e Psicologia dentro da Vigilância Socioassistencial, para facilitar o diálogo com técnicos e a discussão da política de Assistência Social.
+
+Tendo em vista que o tamanho da equipe depende do tamanho do município, da capacidade de gestão da Assistência e de muitos outros fatores, entende-se que este tamanho pode variar muito de caso a caso. Para municípios de pequeno porte, o primordial é que exista, no mínimo, uma pessoa de referência para a Vigilância Socioassistencial.
+
+Se o município/estado não tiver condições de constituir uma equipe com formação própria, então, ele deve capacitar funcionários da secretaria que tenham predisposição a aprender a manipulação de dados e de sistemas informatizados. As equipes precisam ser contratadas ou capacitadas a fim que se adequem ao olhar da Vigilância. Quando o órgãos gestor só dispõe de profissionais com formação de Psicologia e Assistência Social, é preciso que eles tenham predisposição e sejam capacitados para realizar atividades técnicas, como produção de relatórios, tabelas, gráficos e indicadores. Se, por outro lado, a equipe seja mais centrada em profissionais de qualidades técnicas, como estatísticos e programadores, é necessário que estes profissionais sejam capacitados nos conceitos e atividades da Assistência Social, como normatizações (LOAS, PNAS, NOB/SUAS 2012, NOB/RH, Lei 12.435) e orientações técnicas.
+
+Assim, como estratégia para a constituição das equipes de referência da Vigilância Sociassistencial, os órgãos gestores tem três estratégias: contratação, realocação ou capacitação.
+
+Ainda no que se refere a capacitação, é importante ressaltar que o conteúdo da Assistência Social está elencado entre os conteúdos que devem ser aprendidos nos cursos do CAPACITASUAS.
+
+::: {.callout-tip appearance="minimal"}
+
+Não há dúvidas que o olhar da Vigilância Socioassistencial requer conhecimentos específicos e especializados. A equipe responsável pela Vigilância Socioassistencial deve ser capaz de:
+
+- Produção e análise de dados qualitativos e quantitativos.
+- Realizar tarefas de manipulação e produção de Banco de Dados em softwares específicos, como excel, acess, spss, sas, stata, entre outros.
+- Produzir e interpretar de tabelas e gráficos.
+- Calcular indicadores relativos a vulnerabilidade social e pobreza.
+- Elaborar documentos técnicos com análises baseadas em dados, como os diagnósticos socioterritoriais.
+- Produzir e analisar dados georeferenciados, quando necessário.
+- Propor e realizar diagnósticos participativos.
+:::
+
+O profissional da Vigilância Socioassistencial deve ter uma atitude investigativa que imprime sua intervenção profissional no compromisso com a redução das desigualdades e injustiças sociais, alcança pelas ações da Vigilância Socioassistencial uma análise crítica dos indicadores construídos, indo além do conhecimento descritivo e contemplativo. Os técnicos não podem se colocar na posição dos que pensam, atuar isoladamente, pois é importante fazer alianças. Portanto, é um profissional capacitado a “alavancar” a assistência social no país.
+
+A complexidade da análise a ser realizada realmente depende do tamanho da equipe, no entanto, não existe uma relação direta entre a complexidade de análise e o seu efetivo impacto na gestão. Isto é, é possível realizar atividades de grande complexidade técnica, mas que não induzam a política e, por outro lado, realizar tarefas simples, como realizar listas de endereços, que podem impactar de forma significativa a política. Por isso, acima da capacidade técnica, é importante ter um olhar estratégico sobre a informação.
+
+## Contratação de serviços técnicos especializados
+A Vigilância deve lançar mão das diversas possibilidades para viabilizar e qualificar a execução de suas atividades, o que inclui a contratação de serviços técnicos especializados, tanto de pessoa jurídica como física, resguardadas as normas da administração pública que regem este tipo de contratação. Assim, a Vigilância pode contratar pessoas físicas e jurídicas para realizar treinamentos, estudos, diagnósticos, relatórios, pesquisas e/ou outros em temas diversos.
+
+No que se refere à contratação de pessoa jurídica, o setor de Vigilância pode, por exemplo, estabelecer parcerias com instituições de ensino e pesquisa para ministrar treinamentos e para a realização de diagnósticos de situações de vulnerabilidade e risco, de violência e violação de direitos, de potencialidades presentes no território, realizar avaliações dos processos e/ou resultados da Assistência Social. Neste caso, sugere-se que, sempre que possível, sejam acionadas as instituições já credenciadas pelo Programa Nacional de Capacitação, o CAPACITASUAS.
+
+Além da contratação de pessoa jurídica, a Vigilância pode contratar em caráter temporário pessoas físicas, como, por exemplo, estatísticos, sociólogos, analistas de sistemas, entre outros para assessorarem a equipe e atuarem em projetos específicos.
+
+A Vigilância pode contratar consultorias para a definição e descrição de fluxos e processos de gestão pertinentes ao registro e armazenamento de informações, notificação de situações de violência e violações de direitos, referência e contra-referência no âmbito do SUAS, referenciamento intersetorial (entre o SUAS e as demais políticas
+públicas), dentre outros.
+
+Esta contratação deve ser realizada segundo as diretrizes e normas da administração pública, obedecendo a Lei nº 8666/93 (que rege licitações e contratos), a Portaria Interministerial MPOG/MF/Nº 127/08 (que rege os Termos de Cooperação Técnica) e os outros instrumentos legais que regem a área.
+
+O importante neste tipo de contratação é ter clareza quanto ao objeto da contratação, pois realizar a contratação com objetivos vagos e serviços muito diversos aumenta o gap entre os resultados esperados e os obtidos. Objetivos, atividades, tipos de serviços devem ser detalhados com clareza e objetividade. Também se ressalta a importância de verificação da experiência profissional do contratado, isto é, quanto mais conhecimento e expertise na área de Assistência Social o profissional ou instituição possuir, maiores as chances de obter um bom resultado.
+
+## Infraestrutura e equipamentos
+Nos contatos entre a Coordenação de Serviços de Vigilância Socioassistencial (CGVIS/DGSUAS/SNAS/MDS) e os municípios e estados, é frequente a pergunta sobre o tipo de equipamento necessário a implantação da Vigilância Socioassistencial. Não existe um tipo de equipamento obrigatório, no entanto, reconhece que esta área pode demandar infraestrutura técnica diferenciada de outros setores da Secretaria.
+
+::: {.callout-tip appearance="minimal"}
+
+Neste ponto, faz-se apenas algumas sugestões a fim de subsidiar os municípios e estados.
+
+- Internet: o mínimo para a velocidade da internet deve ser de 1 Mb/s , mas o recomendável é um conexão igual ou superior a 10Mb/s. Sempre que possível deve ser assegurada conexão de internet neste mesmo padrão para os CRAS, CREAS e demais unidades da rede socioassistencial.
+- Computadores: Recomendamos que os computadores utilizados pela área de Vigilância tenham configurações mais potentes que a média dos computadores do órgão gestor, devido à necessidade de manipulação de banco de dados e utilização de softwares de elaboração/leitura de mapas. Como configuração mínima recomenda-se processador de 3.3Ghz; 4GB de memória RAM; 500GB de HD.
+- Softwares: alguns softwares específicos são necessários. Softwares de cálculo básico, como excel, calc ou acess são imprescindíveis. O desejável é que estes softwares dialoguem com as capacidades técnicas da equipe. No campo da estatística, podem ser necessários softwares como o SPSS, SAS, Stata, R, entre outros. Estes softwares realizam as mesmas funções e, portanto, o município pode escolher trabalhar apenas com um destes, dependendo da capacidade do profissional de manipulá-los. Em alguns municípios, os formatos das bases de dados a serem trabalhados podem necessitar de softwares que utilizem linguagem em .sql, neste caso será necessário softwares como o Oracle ou similares. Quando a produção de sistemas é vinculado diretamente a Vigilância, pode ser necessários programas específicos para a construção de sistemas. É muito importante que os computadores tenham seus sistemas e programas atualizados periodicamente para melhor compatibilidade com os sistemas e aplicativos. Também é importante que a Vigilância preocupe-se com a interoperabilidade de seus sistemas, para que seus sistemas possam dialogar com outros sistemas.
+:::
+
+Ressalta-se que as especificações elencadas acima são unicamente uma sugestão, isto é, reafirmamos a discricionariedade dos municípios e estados no que se refere a composição de sua infra-estrutura.
+
+## Recursos financeiros para a estruturação da área: utilização do IGD-SUAS
+Com a aprovação da Lei 12435/2011, a Vigiância Socioassistencial ganhou um aliado importante a sua implementação, o IGD-SUAS.
+
+O IGDSUAS - Índice de Gestão Descentralizada do Sistema Único de Assistência Social – é o instrumento de aferição da qualidade da gestão descentralizada dos serviços, programas, projetos e benefícios socioassistenciais, bem como da articulação intersetorial, no âmbito dos municípios, DF e estados.
+
+::: {.callout-tip appearance="minimal"}
+
+Os recursos do IGDSUAS devem ser utilizados, dentre outros fins, para a implantação, estruturação organizacional e funcionamento da área de Vigilância Socioassistencial no âmbito da Gestão. Estes recursos podem ser gastos com:
+
+- Aquisição de equipamentos eletrônicos, tais como, microcomputadores, servidores, impressoras, scanner, datashow, GPS, “tablet”, “modem”; equipamentos para instalação ou ampliação de redes, etc.;
+- Aquisição de mobiliário, tais como mesas individuais, mesas de reunião, cadeiras, arquivos, armários, aparelhos de ar condicionado, aparelhos telefônicos, aparelhos de Fax etc.;
+- Aquisição de softwares, especialmente aqueles destinados ao processamento de dados, tais como programas para análise estatística e georeferenciamento;
+- Aquisição de materiais de consumo, tais como papel e tinta para impressoras;
+- Contratação temporária de Pessoas Físicas ou Jurídicas para ministrar capacitações e treinamentos de interesse da Vigilância Socioassistencial;
+- Contratação de estatísticos e sociólogos, ou outros profissionais, para atuarem como consultores na implantação da vigilância socioassitencial;
+- Contratação temporária de Pessoas Físicas ou Jurídicas para mapear ocorrências de situações de vulnerabilidade e risco, bem como potencialidades presentes no território;
+- Contratação temporária de Pessoas Físicas ou Jurídicas para realizar estudos voltados à definição e descrição de fluxos e processos de gestão pertinentes ao registro e armazenamento de informações, notificação de situações de violência e violações de direitos, referência e contra-referência no âmbito do SUAS, referenciamento intersetorial (entre o SUAS e as demais políticas públicas), realização da busca ativa, dentre outros;
+- Contratação temporária de Pessoas Físicas ou Jurídicas para desenvolvimento de demais, estudos, diagnósticos e pesquisas de interesse da Vigilância Socioassistencial; 
+- Locação de espaço físico, logística, para realização de ofi cinas, encontros, seminários, treinamentos e capacitações de interesse da Vigilância Socioassistencial;
+- Custeio de diárias e passagens para parti cipação em oficinas, encontros, seminários, treinamentos e capacitações de interesse da Vigilância Socioassistencial;
+- Contratação de serviços de internet (provedores).
+:::

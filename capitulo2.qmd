@@ -1,0 +1,154 @@
+# Marco Normativo da Vigilância Socioassistencial
+Nesta seção é apresentada a redação dos documentos normativos da Assistência Social que se referem à Vigilância Socioassisntecial, a fim de resgatar a completude do Marco Normativo da área e analisá-los mais detidamente. A Vigilância ganhou um importante aliado com a redação da Norma Operacional Básica 2012, que reitera a importância dada à Vigilância na Lei Orgânica de Assistência Social e na Política Nacional de Assistência social. Estes três documentos ajudam a dar concretude às atividades próprias da Vigilância e mostram como este tema é necessário para alavancar a agenda do SUAS no país.
+
+## Lei Orgânica de Assistência Social
+A Lei Orgânica de Assistência Social afirma que:
+
+::: {.callout-tip title="Artigo de Referência"}
+
+“Art. 2o A assistência social tem por objetivos: I - a proteção social, que visa à garantia da vida, à redução de danos e à prevenção da incidência de riscos, especialmente: (...); II - a vigilância socioassistencial, que visa a analisar territorialmente a capacidade protetiva das famílias e nela a ocorrência de vulnerabilidades, de ameaças, de vitimizações e danos; III - a defesa de direitos, que visa a garantir o pleno acesso aos direitos no conjunto das provisões socioassistenciais.” (Lei nº 8.742, de 1993, segundo redação dada pela Lei nº 12.435, de 2011)
+:::
+
+Esta redação aponta para a importância da Vigilância Socioassistencial como **objetivo** da política da Assistência Social, no mesmo patamar que as proteções sociais e a defesa dos direitos, ao mesmo tempo que, estabelece o que é de responsabilidade da Vigilância realizar: analisar territorialmente a capacidade protetiva das famílias e nela a ocorrência de vulnerabilidades, de ameaças, de vitimizações e danos.
+
+A Vigilância também se encontra no capitulo Da Organização e Da Gestão, com a seguinte redação:
+
+::: {.callout-tip title="Artigo de Referência"}
+
+Art. 6o **A gestão das ações na área de assistência social fica organizada sob a forma de sistema descentralizado e participativo, denominado Sistema Único de Assistência Social (Suas), com os seguintes objetivos**: I - consolidar a gestão compartilhada, o cofinanciamento e a cooperação técnica entre os entes federativos que, de modo articulado, operam a proteção social não contributiva; II - integrar a rede pública e privada de serviços, programas, projetos e benefícios de assistência social, na forma do art. 6o-C; III - estabelecer as responsabilidades dos entes federativos na organização, regulação, manutenção e expansão das ações de assistência social; IV - definir os níveis de gestão, respeitadas as diversidadesregionais e municipais; V - implementar a gestão do trabalho e a educação permanente na assistência social; VI - estabelecer a gestão integrada de serviços e benefícios; e VII - afiançar a vigilância socioassistencial e a garantia de direitos. (Lei nº 8.742, de 1993, segundo redação dada pela Lei nº 12.435, de 2011)
+::: 
+
+Esta redação aponta que a gestão do SUAS tem o compromisso de afiançá-la, assegurá-la e garanti-la. Esta é uma determinação clara de que a Vigilância é uma área específica do SUAS, isto é, não deve ser executada fora do âmbito do SUAS.
+
+Por fim, a LOAS afirma que:
+
+::: {.callout-tip title="Artigo de Referência"}
+
+Art. 6o-A. A assistência social organiza-se pelos seguintes tipos de proteção: I - proteção social básica: (...); II - proteção social especial: (...). Parágrafo único. A vigilância socioassistencial é um dos instrumentos das proteções da assistência social que identifica e previne as situações de risco e vulnerabilidade social e seus agravos no território. (Lei nº 8.742, de 1993, segundo redação dada pela Lei nº 12.435, de 2011)
+::: 
+
+Esta última colocação, aponta para dois pontos cruciais da concepção de Vigilância Socioassistencial: 1) apresenta a intrínseca relação da Vigilância Socioassistencial e das Proteções Sociais; 2) estabelece claramente que o objetivo final da Vigilância é identificar e prevenir as situações de risco e vulnerabilidade social e seus agravos no território.
+
+## Política Nacional de Assistência Social
+A Política Nacional de Assistência Social, desde 2005, também estrutura assertivas sobre a Vigilância Socioassistencial. A PNAS utiliza o termo em duas passagens:
+
+::: {.callout-tip}
+## Artigo de Referência
+
+Os serviços socioassistenciais no SUAS são organizados segundo as seguintes referências: vigilância social, proteção social e defesa social e institucional: • Vigilância Social: refere-se à produção, sistematização de informações, indicadores e índices territorializados das situações de vulnerabilidade e risco pessoal e social que incidem sobre famílias/pessoas nos diferentes ciclos da vida (crianças, adolescentes, jovens, adultos e idosos); pessoas com redução da capacidade pessoal, com deficiência ou em abandono; crianças e adultos vítimas de formas de exploração, de violência e de ameaças; vítimas de preconceito por etnia, gênero e opção pessoal; vítimas de apartação social que lhes impossibilite sua autonomia e integridade, fragilizando sua existência; vigilância sobre os padrões de serviços de assistência social em especial aqueles que operam na forma de albergues, abrigos, residências, semi-residências, moradias provisórias para os diversos segmentos etários. Os indicadores a serem construídos devem mensurar no território as situações de riscos sociais e violação de direitos. (Política Nacional de Assistência Social)
+
+Esta medida, portanto, sofrerá variações de abrangência de acordo com as características de cada cidade, exigindo ação articulada entre as três esferas no apoio e subsídio de informações, tendo como base o Sistema Nacional de Informações de Assistência Social e os censos do IBGE, compondo com os Campos de Vigilância Social, locais e estaduais, as referências necessárias para sua construção. (Política Nacional de Assistência Social)
+:::
+
+A primeira citação inicia o difícil trabalho de dar materialidade a Vigilância Sociassistencial, ligando-a à produção, sistematização das informações, indicadores e índices territorializados, apontando assim para o campo de atuação da Vigilância. A segunda citação é extraída do texto que se refere à construção de medidas para o planejamento da Assistência Social, afirmando que é responsabilidade da Vigilância atualização das medidas e indicadores para o acompanhamento do Sistema.
+
+## Normas Operacionais Básicas
+A NOB/SUAS 2012[^1] reitera a redação da Política Nacional e da Lei Orgânica, reafirmando que a Vigilância Socioassisntencial é uma das funções do SUAS, em conjunto a proteção social e a defesa de direitos (art.1º e art.87), que um dos objetivos do SUAS é afiançar a Vigilância Socioassistencial (art. 2º) e que deve ser constituída no âmbito federal, estadual e municipal (art.12 e art. 90).
+
+Além disso, a NOB ressalta o duplo olhar da Vigilância sobre a informação, gerando dados tanto para a produção de informações sobre vulnerabilidade e risco, como sobre o padrão dos serviços (art.87). Também reafirma a intrínseca relação entre a Vigilância Social e as Proteções e a relação entre Vigilância Social e o planejamento e execução dos serviços socioassistenciais (art.88 e art.90).
+
+A redação da NOB/SUAS 2012 traz o amadurecimento da área nos últimos anos, materializando quais são, de fato, as atividades que a Vigilância deve executar. Neste sentido, os artigos 90 a 94 são bastante elucidativos: 
+
+::: {.callout-tip}
+## Artigo de Referência
+
+Art. 90. A União, os Estados, o Distrito Federal e os Municípios devem instituir a área da Vigilância Socioassistencial diretamente vinculada aos órgãos gestores da política de assistência social, dispondo de recursos de incentivo à gestão para sua estruturação e manutenção. Parágrafo único.
+
+A Vigilância Socioassistencial constitui como uma área essencialmente dedicada à gestão da informação, comprometida com:
+
+I - o apoio efetivo às atividades de planejamento, gestão, monitoramento, avaliação e execução dos serviços socioassistenciais, imprimindo caráter técnico à tomada de decisão; e
+
+II - a produção e disseminação de informações, possibilitando conhecimentos que contribuam para a efetivação do caráter preventivo e proativo da política de assistência social, assim como para a redução dos agravos, fortalecendo a função de proteção social do SUAS.
+:::
+
+Assim como no capítulo 6 da LOAS, a NOB reconhece que embora a Vigilância seja um olhar necessário a todos os atores do SUAS, ela deve ser instituída como uma área formalizada nos órgãos gestores de Assistência Social, em todos os entes federados. Este artigo ressalta os dois **principais** comprometimentos da Vigilância e a razão de sua existência. 
+
+::: {.callout-tip}
+## Artigo de Referência
+
+Art. 91. Constituem responsabilidades comuns à União, aos estados, ao Distrito Federal e aos Municípios acerca da área de Vigilância Socioassistencial:
+
+I - elaborar e atualizar periodicamente diagnósticos socioterritoriais que devem ser compatíveis com os limites territoriais dos respectivos entes federados e devem conter as informações espaciais referentes:
+
+a) às vulnerabilidades e aos riscos dos territórios e da consequente demanda por serviços socioassistenciais de Proteção Social Básica e Proteção Social Especial e de benefícios;
+
+b) ao tipo, ao volume e à qualidade das ofertas disponíveis e efetivas à população.
+
+II - contribuir com as áreas de gestão e de proteção social básica e especial na elaboração de diagnósticos, planos e outros.
+
+III - utilizar a base de dados do Cadastro Único como ferramenta para construção de mapas de vulnerabilidade social dos territórios, para traçar o perfil de populações vulneráveis e estimar a demanda potencial dos serviços de Proteção Social Básica e Especial e sua distribuição no território;
+
+IV - utilizar a base de dados do Cadastro Único como instrumento permanente de identificação das famílias que apresentam características de potenciais demandantes dos distintos serviços socioassistenciais e, com base em tais informações, planejar, orientar e coordenar ações de busca ativa a serem executas pelas equipes dos CRAS e CREAS; 
+
+V – implementar o sistema de notificação compulsória contemplando o registro e a notificação ao Sistema de Garantia de Direitos sobre as situações de violência intrafamiliar, abuso ou exploração sexual de crianças e adolescentes e trabalho infantil, além de outras que venham a ser pactuadas e deliberadas;
+
+VI – utilizar os dados provenientes do Sistema de Notificação das Violações de Direitos para monitorar a incidência e o atendimento das situações de risco pessoal e social pertinentes à assistência social;
+
+VII - orientar quanto aos procedimentos de registro das informações referentes aos atendimentos realizados pelas unidades da rede socioassistencial, zelando pela padronização e qualidade dos mesmos;
+
+VIII - coordenar e acompanhar a alimentação dos sistemas de informação que provêm dados sobre a rede socioassistencial e sobre os atendimentos por ela realizados, mantendo diálogo permanente com as áreas de Proteção Social Básica e de Proteção Social Especial, que são diretamente responsáveis pela provisão dos dados necessários à alimentação dos sistemas específicos ao seu âmbito de atuação;
+
+IX - realizar a gestão do cadastro de unidades da rede socioassistencial pública no CadSUAS;
+
+X - responsabilizar-se pela gestão e alimentação de outros sistemas de informação que provêm dados sobre a rede socioassistencial e sobre os atendimentos por ela realizados, quando estes não forem específicos de um programa, serviço ou benefício; 
+
+XI - analisar periodicamente os dados dos sistemas de informação do SUAS, utilizando-os como base para a produção de estudos e indicadores;
+
+XII - coordenar o processo de realização anual do Censo SUAS, zelando pela qualidade das informações coletadas;
+
+XIII - estabelecer, com base nas normativas existentes e no diálogo com as demais áreas técnicas, padrões de referência para avaliação da qualidade dos serviços ofertados pela rede socioassistencial e monitorá-los por meio de indicadores;
+
+XIV – coordenar, de forma articulada com as áreas de Proteção Social Básica e de Proteção Social Especial, as atividades de monitoramento da rede socioassistencial, de forma a avaliar periodicamente a observância dos padrões de referência relativos à qualidade dos serviços ofertados;
+
+XV - estabelecer articulações intersetoriais de forma a ampliar o conhecimento sobre os riscos e as vulnerabilidades que afetam as famílias e os indivíduos em um dado território, colaborando para o aprimoramento das intervenções realizadas. 
+:::
+
+O artigo 91 traz as competências comuns dos entes federados, enquanto os artigos 92, 93 e 94 ressaltam as competências exclusivas de cada ente. A complementariedade destes artigos trazem com clareza as responsabilidades de cada ente e como se constitui a Vigilância nacionalmente. 
+
+::: {.callout-tip}
+## Artigo de Referência
+
+Art. 92. Constituem responsabilidades específicas da União acerca da área da Vigilância Socioassistencial:
+
+I - apoiar tecnicamente a estruturação da Vigilância Socioassistencial nos estados, DF e municípios;
+
+II - organizar, normatizar e gerir nacionalmente, no âmbito da Política de Assistência Social, o sistema de notificações para eventos de violência e violação de direitos, estabelecendo instrumentos e fluxos necessários à sua implementação e ao seu funcionamento;
+
+III - planejar e coordenar, em âmbito nacional, o processo de realização anual do Censo SUAS, zelando pela qualidade das informações coletadas;
+
+IV - propor parâmetros nacionais para os registros de informações no âmbito do SUAS;
+
+V - propor indicadores nacionais para o monitoramento no âmbito do SUAS.
+
+
+Art. 93. Constituem responsabilidades específicas dos Estados acerca da área da Vigilância Socioassistencial:
+
+I - desenvolver estudos para subsidiar a regionalização dos serviços de proteção social especial no âmbito do estado;
+
+II - apoiar tecnicamente a estruturação da Vigilância Socioassistencial nos municípios do estado;
+
+III - coordenar, em âmbito estadual, o processo de realização anual do Censo SUAS, apoiando tecnicamente os municípios para o preenchimento dos questionários e zelando pela qualidade das informações coletadas.
+
+
+Art. 94. Constituem responsabilidades específicas dos Municípios e do Distrito Federal acerca da área da Vigilância Socioassistencial:
+
+I - elaborar e atualizar, em conjunto com as áreas de proteção social básica e especial, os diagnósticos circunscritos aos territórios de abrangência dos CRAS e CREAS;
+
+II – colaborar com o planejamento das atividades pertinentes ao cadastramento e à atualização cadastral do Cadastro Único em âmbito municipal;
+
+III - fornecer sistematicamente às unidades da rede socioassistencial, especialmente aos CRAS e CREAS, informações e indicadores territorializados, extraídos do Cadastro Único, que possam auxiliar as ações de busca ativa e subsidiar as atividades de planejamento e avaliação dos próprios serviços;
+
+IV - fornecer sistematicamente aos CRAS e CREAS listagens territorializadas das famílias em descumprimento de condicionalidades do Programa Bolsa Família, com bloqueio ou suspensão do benefício, e monitorar a realização da busca ativa destas famílias pelas referidas unidades e o registro do acompanhamento que possibilita a interrupção dos efeitos do descumprimento sobre o benefício das famílias;
+
+V - fornecer sistematicamente aos CRAS e CREAS listagens territorializadas das famílias beneficiárias do BPC e dos benefícios eventuais e monitorar a realização da busca ativa destas famílias pelas referidas unidades para inserção nos respectivos serviços;
+
+VI - realizar a gestão do cadastro de unidades da rede socioassistencial privada no CadSUAS, quando não houver na estrutura do órgão gestor área administrativa específica responsável pela relação com a rede socioassistencial privada;
+
+VII - coordenar, em âmbito municipal ou do Distrito Federal, o processo de preenchimento dos questionários do Censo SUAS, zelando pela qualidade das informações coletadas.
+:::
+
+Alguns outros pontos merecem destaque na redação da NOB/SUAS. Segundo a redação do art.78, o cofinanciamento dos serviços socioassistenciais devem observar diagnósticos realizados pela Vigilância Socioassistencial sobre as necessidades e especificidades locais.
+
+Por fim, a NOB clarifica a relação entre Vigilância Socioassistencial e a gestão da informação (art.95 a 98), o monitoramento (art. 91 e art.99 a 104) e a avaliação (art.105 a 108) no SUAS. Mesmo que estas atividades sejam realizadas por núcleos específicos que não são exclusivos do SUAS, mesmo que sejam realizadas por organizações externas, ou que existam atividades realizadas em outras áreas ou proteções, é responsabilidade da Vigilância Socioassistencial traduzir e organizar estrategicamente estas informações para a linguagem do SUAS e para a tomada de decisão. A Vigilância é a gestora das informações no âmbito do SUAS e deve se responsabilizar pelas informações do e para o sistema. 
+
+[^1]: O texto completo da NOB/SUAS sobre a Vigilância Socioassistencial encontra-se no anexo deste documento.

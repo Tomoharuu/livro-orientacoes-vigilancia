@@ -1,0 +1,52 @@
+project:
+  type: book
+  output-dir: docs
+
+margin-header: |
+  ![](capa.jpg)
+
+book:
+  title: "Orientações Técnicas da Vigilância Socioassistencial"
+  subtitle: "Livro de Orientações destinado ao setor público"
+  #author: "Secretaria de Assistência Social"
+  #cover-image: capa.jpg
+  #date: "10/12/2025"
+  page-footer:
+    left: |
+      Material original por: 
+      ![](img/brasil-sem-miseria.png){height=25px}
+      ![](img/suas_logo.png){height=25px}
+      ![](img/fome_logoatualizado.png){height=25px}
+      ![](img/governo-logo.jpg){height=25px}
+    right: 
+      Esta adaptação foi escrita usando o serviço <a href="https://quarto.org/">Quarto</a>.
+  sidebar:
+    logo: img/suas_logo.png
+    search: true
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - capitulo1.qmd
+    - capitulo2.qmd
+    - capitulo3.qmd
+    - capitulo4.qmd
+    - capitulo5.qmd
+    - capitulo6.qmd
+    - anexos.qmd
+  navbar:
+    background: secondary
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    toc: true
+    toc-location: right
+    toc-title: "Índice de Conteúdo"
+    toc-expand: true
+  pdf:
+    documentclass: scrreprt
+
+
+

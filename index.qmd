@@ -1,0 +1,7 @@
+# Sobre este projeto {.unnumbered}
+
+Este livro de 2013 está originalmente disponível [no site do Ministério do Desenvolvimento Social e Combate à Fome](https://www.mds.gov.br/webarquivos/publicacao/assistencia_social/Cadernos/Orientacoes_Vigilancia.pdf), e é destinado a apoiar técnicos e gestores estaduais e municipais envolvidos no desafio de implantação da Vigilância Socioassistencial.
+
+O objetivo do projeto se dá numa adaptação do excerto original, mantendo todo o texto originalmente incluso, porém adaptando alguns erros gramaticais que estavam presentes e de atualizar seu conteúdo, seja por meio de referências a links não estão mais funcionando (em 2025), ou por uma nova disposição visual de alguns tópicos, adaptados num formato em página de web (se estiver lendo a versão em site da adaptação) e indexação dos capítulos e tópicos aqui presentes (válidos tanto para a versão HTML quando em PDF).
+
+A versão adaptada deste livro e disponível em formato de página da web foi feita com base no sistema de publicação [Quarto](https://quarto.org).
