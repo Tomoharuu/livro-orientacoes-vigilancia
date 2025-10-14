@@ -59,7 +59,7 @@ A atuação sobre o território significa a atuação no plano coletivo, que pas
 ## Vigilância de riscos e vulnerabilidades e vigilância dos padrões dos serviços
 A análise da adequação entre as necessidades da população e as ofertas dos serviços e benefícios socioassistenciais, vistos na perspectiva do território, deve constituir-se como objeto central e de permanente reflexão da Vigilância Socioassistencial. Esta visão de totalidade, integrando necessidades e ofertas, permite traçar melhores ações e estratégias para prevenção e para redução de agravos, contribuindo para o planejamento, gestão e execução da política de assistência por meio de seus serviços e benefícios, objetivando sempre o fortalecimento da função de proteção social do SUAS.
 
-![](territorio.png){fig-align="center"}
+![](img/territorio.png){fig-align="center"}
 
 Os riscos e vulnerabilidades vivenciados por uma determinada população ou grupo social geram necessidades de proteção. Assim, as políticas sociais devem se constituir como respostas do poder público que visem atender as necessidades de proteção decorrentes dos riscos e vulnerabilidades a que estão expostos os cidadãos.
 
