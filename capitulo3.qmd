@@ -58,7 +58,7 @@ Em muitas situações, é comum encontrar diagnósticos que focam apenas em ques
 ::: {.callout-warning}
 ## Sugestão
 
-**Sugestão para apresentação de dados na elaboração do Diagnóstico Socioterritorial do Município ou Estado**
+**Sugestão para apresentação de dados na elaboração do Diagnóstico Socioterritorial do Município ou Estado** 
 
 1) Variáveis e indicadores de contexto. Visam apresentar as condições gerais de desenvolvimento econômico e social dos municípios, microregiões e estados. De forma geral, devem abordar de forma muito sintética as informações essenciais das seguintes áreas: demografia, educação, saúde, trabalho, infraestrutura urbana, economia e meio ambiente. Devem ocupar não mais que 25% do documento produzido.
 
